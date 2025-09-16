@@ -29,7 +29,7 @@
 }
 
 body {
-  background-color:aliceblue;
+  background-color:white;
   
   font-family: 'Arial', sans-serif, ;
   /* TODO: change the background colour */
@@ -39,7 +39,7 @@ body {
 }
 h1, h2, h3 {
   /* TODO: change the header font colour */
-  color: darkblue;
+  color: lightgreen;
 }
 
 h1 {
@@ -64,11 +64,11 @@ p {
 a {
   /* TODO: change the link colours */
   text-decoration: none;
-  color: red;
+  color: rgb(255, 255, 255);
 }
 
 a:hover {
-  background-color: #827397;
+  background-color: #a7c20a;
 }
 
 .img-circle {
@@ -87,8 +87,8 @@ a:hover {
 
 .btn-blue {
   /* TODO: change the button colour */
-  background-color:#4D4C7D;
-  color: #2fc3dd;
+  background-color:green;
+  color: #51ab66;
   padding: 15px 20px;
   border-radius: 4px;
 }
