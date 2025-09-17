@@ -39,7 +39,7 @@ body {
 }
 h1, h2, h3 {
   /* TODO: change the header font colour */
-  color: lightgreen;
+  color: rgb(8, 128, 233);
 }
 
 h1 {
