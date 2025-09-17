@@ -68,7 +68,7 @@ a {
 }
 
 a:hover {
-  background-color: #a7c20a;
+  background-color: #1957c9;
 }
 
 .img-circle {
@@ -77,7 +77,7 @@ a:hover {
 
 .card-white {
   /* TODO: change the card background colour */
-  background-color: seagreen;
+  background-color: lightblue;
   padding: 40px;
   box-shadow: 0px 10px 30px rgba(0 0 0 / 10%);
   border-radius: 4px;
@@ -87,8 +87,8 @@ a:hover {
 
 .btn-blue {
   /* TODO: change the button colour */
-  background-color:green;
-  color: #51ab66;
+  background-color:rgb(51, 125, 165);
+  color: #0e99a3;
   padding: 15px 20px;
   border-radius: 4px;
 }
